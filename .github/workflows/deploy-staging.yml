@@ -7,10 +7,10 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace <username> with GitHub username ###
+  ### Replace sindyl-loyalty with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: <username>-azure-ttt
-  AZURE_WEBAPP_NAME: <username>-ttt-app
+  DOCKER_IMAGE_NAME: sindyl-loyalty-azure-ttt
+  AZURE_WEBAPP_NAME: sindyl-loyalty-ttt-app
   ###############################################
 
 jobs:
